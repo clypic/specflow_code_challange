@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BddEvernote.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ExistingUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PleaseEnterExistingUserName</Value>
+    </Setting>
+    <Setting Name="ExistingUserPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PleaseEnterExistingUserPass</Value>
+    </Setting>
+    <Setting Name="NonExistingUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nonexistingemail@nonexistingdomain.com</Value>
+    </Setting>
+    <Setting Name="NonExistingUserPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">password</Value>
+    </Setting>
+    <Setting Name="DriverPathChrome" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:/Program Files (x86)/Google/ChromeDriver</Value>
+    </Setting>
+    <Setting Name="WebDriverTimeout" Type="System.String" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
